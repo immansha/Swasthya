@@ -17,7 +17,7 @@ def run_command(command, description):
         print(result.stdout)
         return True
     except subprocess.CalledProcessError as e:
-        print(f"❌ Error: {e.stderr}")
+        print(f" Error: {e.stderr}")
         return False
 
 def main():
@@ -43,7 +43,7 @@ import nltk
 try:
     nltk.download('punkt', quiet=True)
     nltk.download('stopwords', quiet=True)
-    print("✅ NLTK data downloaded successfully")
+    print(" NLTK data downloaded successfully")
 except Exception as e:
     print(f"⚠️  NLTK download error: {e}")
 """
@@ -60,7 +60,7 @@ except Exception as e:
             "Installing scispaCy medical model"
         )
     else:
-        print("⏭️  Skipping scispaCy model installation")
+        print(" Skipping scispaCy model installation")
     
     # Create necessary directories
     print("\nStep 5: Creating directories...")
@@ -75,10 +75,10 @@ except Exception as e:
     
     for directory in directories:
         os.makedirs(directory, exist_ok=True)
-        print(f"✅ Created: {directory}")
+        print(f" Created: {directory}")
     
     print("\n" + "="*60)
-    print("✅ Setup completed!")
+    print(" Setup completed!")
     print("="*60)
     print("\nNext steps:")
     print("1. Run Streamlit app: streamlit run app.py")
