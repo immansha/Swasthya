@@ -1,0 +1,31 @@
+Doctor: Good morning, Janet. How are you feeling today?
+
+Patient: Good morning, doctor. I'm doing much better, thank you. The neck pain has reduced significantly, and I can move my head more freely now.
+
+Doctor: That's excellent news. Can you tell me about the back pain? Is it still bothering you?
+
+Patient: Yes, there's still some discomfort in my lower back, especially when I sit for long periods. But it's not as severe as it was right after the car accident.
+
+Doctor: I understand. The car accident was about three weeks ago, correct? And you were diagnosed with a whiplash injury?
+
+Patient: Yes, exactly. Three weeks ago. I was rear-ended while stopped at a traffic light. The impact was quite sudden.
+
+Doctor: I see. Have you been following the physiotherapy sessions we recommended?
+
+Patient: Yes, I've completed 8 out of the 10 sessions. The exercises have been really helpful for my neck. I do them every morning now.
+
+Doctor: That's great to hear. And the painkillers? Are you still taking them?
+
+Patient: I've reduced them to just one at night before bed. During the day, I don't need them as much anymore.
+
+Doctor: Perfect. Based on your progress, I'm confident you'll make a full recovery. The whiplash injury is healing well, and with continued physiotherapy, you should be back to normal within six months.
+
+Patient: That's very reassuring, doctor. I was worried it might take longer. I'm really looking forward to getting back to my normal activities.
+
+Doctor: That's completely understandable. Just remember to continue the exercises and avoid any heavy lifting for the next few weeks. We'll schedule a follow-up in a month to monitor your progress.
+
+Patient: Thank you so much, doctor. I really appreciate your help.
+
+Doctor: You're welcome, Janet. Take care, and don't hesitate to call if you have any concerns.
+
+

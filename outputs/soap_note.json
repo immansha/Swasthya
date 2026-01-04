@@ -1,0 +1,27 @@
+{
+  "Patient_Name": "Patient",
+  "Date": "2026-01-04",
+  "Subjective": {
+    "Chief_Complaint": "Not specified",
+    "History_of_Present_Illness": "See patient text for details",
+    "Patient_Reported_Symptoms": [],
+    "Patient_Concerns": []
+  },
+  "Objective": {
+    "Physical_Examination": "No specific examination findings documented",
+    "Clinical_Observations": [],
+    "Diagnostic_Information": []
+  },
+  "Assessment": {
+    "Primary_Diagnosis": "Not specified",
+    "Differential_Diagnosis": [],
+    "Clinical_Assessment": "The cold weather has been brutal this winter in the U.S. The cold has been blamed for an increase in car crashes and deaths. The National Transportation Safety Board is investigating the cause of car crashes. The NTSB is also investigating the death of a man in a car crash in South Carolina. The death was blamed on the cold weather, and the NTSB has launched an investigation into the incident."
+  },
+  "Plan": {
+    "Treatment_Plan": [],
+    "Medications": [],
+    "Therapy_Recommendations": [],
+    "Follow_Up": "Follow-up as needed",
+    "Prognosis": "Not specified"
+  }
+}
