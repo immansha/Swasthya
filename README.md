@@ -3,6 +3,12 @@
 ## Overview
 This project implements an AI-based Swasthya system that processes doctor–patient conversations to extract medical entities, generate structured summaries, analyze patient sentiment and intent, and create SOAP clinical notes.
 
+##Screenshots:
+<img width="1919" height="836" alt="image" src="https://github.com/user-attachments/assets/81ffec0d-c51c-45c6-ac7f-b78f3ecb8ee4" />
+<img width="1919" height="758" alt="image" src="https://github.com/user-attachments/assets/19745bf3-a4a6-4daf-88c4-d6994418840c" />
+<img width="1909" height="857" alt="image" src="https://github.com/user-attachments/assets/73340e54-7162-4f7e-b90c-63c0f050875b" />
+
+
 ## Features
 - **Medical Named Entity Recognition (NER)**: Extracts symptoms, diagnosis, treatment, and prognosis
 - **Keyword Extraction**: Uses KeyBERT, TF-IDF, and noun chunking
