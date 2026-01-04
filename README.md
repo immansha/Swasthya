@@ -1,4 +1,4 @@
-# 🏥 Swasthya – NLP System
+# 🏥 Swasthya – Physician Notetaker NLP System
 
 ## Overview
 This project implements an AI-based Swasthya system that processes doctor–patient conversations to extract medical entities, generate structured summaries, analyze patient sentiment and intent, and create SOAP clinical notes.
